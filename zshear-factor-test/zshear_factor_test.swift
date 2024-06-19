@@ -7,7 +7,7 @@
 
 import XCTest
 import simd
-@testable import zshear_factor
+// @testable import zshear_factor
 
 class zshear_factor_test: XCTestCase {
     static func verifySVD(a : Float, b : Float, c : Float, svd : SVDFactors) -> Bool {

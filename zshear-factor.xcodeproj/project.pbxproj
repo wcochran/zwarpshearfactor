@@ -10,6 +10,7 @@
 		55E1E4592C20D04000B4D47C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55E1E4582C20D04000B4D47C /* main.swift */; };
 		55E1E4602C20D0AF00B4D47C /* zShearFactor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55E1E45F2C20D0AF00B4D47C /* zShearFactor.swift */; };
 		55E1E4682C2337E600B4D47C /* zshear_factor_test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55E1E4672C2337E600B4D47C /* zshear_factor_test.swift */; };
+		55E1E46C2C234AE300B4D47C /* zShearFactor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55E1E45F2C20D0AF00B4D47C /* zShearFactor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -184,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				55E1E4682C2337E600B4D47C /* zshear_factor_test.swift in Sources */,
+				55E1E46C2C234AE300B4D47C /* zShearFactor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
